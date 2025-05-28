@@ -1,2 +1,2 @@
-# Projeto-Engenharia-de-Computa-o
+# Projeto-Engenharia-de-Computação
 Projeto Engenharia Computação - Fundamentos de Engenharia
